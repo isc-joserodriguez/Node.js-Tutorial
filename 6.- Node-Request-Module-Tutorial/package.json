@@ -1,5 +1,5 @@
 {
-  "name": "Node-Database-Tutorial",
+  "name": "Node-Request-Module-Tutorial",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -12,8 +12,8 @@
   "dependencies": {
     "express": "^4.17.1",
     "express-handlebars": "^3.1.0",
-    "http": "0.0.0",
     "path": "^0.12.7",
-    "pg": "^7.17.0"
+    "request": "^2.88.0",
+    "request-promise": "^4.2.5"
   }
 }
